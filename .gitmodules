@@ -1,0 +1,6 @@
+[submodule "tictactoe"]
+	path = submodule/tictactoe
+	url = https://github.com/zapgamer7/tictactoe.git
+[submodule "INSS"]
+	path = submodule/INSS
+	url = https://github.com/zapgamer7/INSS.git
